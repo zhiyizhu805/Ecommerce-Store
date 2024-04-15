@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fQnbqVZX/ylzcmrL5xoJyPgJUJVllool0Zui8gwbeGDFbQi//7s7R+UWpS3EPotafL88QQE+lsmRWuuD8x3qug==",
+  "success": true,
+  "projectFilePath": "/Users/zhiyizhu/Documents/ASP.NET/Restore/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/zhiyizhu/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/zhiyizhu/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/zhiyizhu/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/zhiyizhu/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/zhiyizhu/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/zhiyizhu/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
